@@ -1,4 +1,4 @@
-# SIMPLE_SPREAD-MARL-
+# SIMPLE_SPREAD-MARL
 The project involves experimentation with the SIMPLE SPREAD env the petting-zoo repository.
 
 Details of the environment are present on their website
