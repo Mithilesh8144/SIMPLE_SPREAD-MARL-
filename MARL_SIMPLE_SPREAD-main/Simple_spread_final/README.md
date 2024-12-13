@@ -1,7 +1,4 @@
-3 DQNS INVOLVES USING 3 SEPARATE DQNS TO TRAIN THE AGENTS IN THE ENVIRONMENT.
-
-THE RESULTS OF THE EXPERIMENTS ARE EXPLAINED IN THE PNG FILES.
-
-PARAMETER SHARING INVOLVES USING A SINGLE DQN TO TRAIN ALL 3 AGENTS, THE NETWORK PARAMETERS ARE SHARED AMONG AGENTS.
-
-THE RESULTS OF THE EXPERIMENTS OF USING THE DEFAULT FRAMES AS WELL AS 100 FRAMES ARE ALSO DOCUMENTED.
+The simple_spread_final folder explores three distinct DQN approaches:
+1) **Independent DQNs:** Three separate DQNs are trained, one for each agent. Each agent learns independently, without sharing information or parameters with other agents.
+2) **Parameter Sharing DQN:** A single DQN is used to train all three agents.  The network's parameters (weights and biases) are shared across agents. This promotes cooperation by allowing agents to learn from each other's experiences.
+The performance of both approaches is evaluated using the default frame configuration and a modified configuration using 100 frames, with results documented in the PNG files within the repository.  The PNG files visually illustrate and compare the performance metrics achieved by each approach under varying frame conditions.
