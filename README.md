@@ -3,7 +3,7 @@ The project involves experimentation with the SIMPLE SPREAD env the petting-zoo 
 
 Details of the environment are present on their website
 
-https://www.pettingzoo.ml/mpe/simple_spread
+https://pettingzoo.farama.org/environments/mpe/simple_spread/
 
 This GitHub repository contains two distinct approaches to training agents within the PettingZoo SIMPLE_SPREAD multi-agent environment:
 
